@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Creoue lo he hecho mal
 Use the left arrow to go back!
